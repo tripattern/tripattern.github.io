@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  disqus_shortname: 'https-tripattern-github-io-tripattern'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
@@ -13,10 +13,10 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/lenpaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'github', link: 'https://www.github.com/tripattern'}
+- {icon: 'twitter', link: 'https://twitter.com/tripattern'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/alexandercvboden/'}
+#- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
 - {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
