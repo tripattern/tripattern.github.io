@@ -8,7 +8,8 @@ Angaben gemäß § 5 TMG
   
 Alexander Boden  
 Nahariyastraße 1  
-33602 Bielefeld  
+33602 Bielefeld 
+  
 Vertreten durch:  
 Alexander Boden  
 E-Mail: website@tripattern.com  
